@@ -1,0 +1,28 @@
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('pitbul.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kep {
+    max-width: 100%;
+    height: 100%;
+}
+
+.icon {
+    width: 40px;
+}
+
+.animacio:hover{
+    transform: scale(1.03);
+}
+
+.kepek{
+ width: 100%;
+ height: 250px;
+ object-fit: cover;
+}
+
+.kepek:hover {
+    transform: scale(1.03);
+}
