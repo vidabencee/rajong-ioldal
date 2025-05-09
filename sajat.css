@@ -30,3 +30,13 @@
 .container.mb-5 {
     flex: 1; /* Ez kitölti a maradék helyet */
 }
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
