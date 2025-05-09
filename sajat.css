@@ -26,3 +26,7 @@
 .kepek:hover {
     transform: scale(1.03);
 }
+
+.container.mb-5 {
+    flex: 1; /* Ez kitölti a maradék helyet */
+}
